@@ -1,4 +1,4 @@
-# Dannys_Dinner
+# Danny's Dinner
 
 
 ## Problem Statement
